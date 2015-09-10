@@ -5,6 +5,13 @@ header('Content-Type:text/html ; charset=utf-8');
 	define('ROOT' , $dir_name);
 	define("QUANTINY_NEWS" , 2);
 
+/*
+
+
+
+
+sdfgnrggbfrtnbfr
+*/
 	require_once ROOT.'/engine/classes/core.class.php';
 	require_once ROOT.'/engine/classes/db.class.php';
 require_once ROOT.'/engine/classes/category.class.php';
