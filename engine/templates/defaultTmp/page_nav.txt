@@ -1,0 +1,7 @@
+<div id="navigation-page">
+						<a href="#" class='dark-page-nav'>«</a>
+						<a href="#" class='light-page-nav'>1</a>
+						<a href="#" class='dark-page-nav'>2</a>
+						<a href="#" class='dark-page-nav'>3</a>
+						<a href="#" class='dark-page-nav'>»</a>
+					</div>
